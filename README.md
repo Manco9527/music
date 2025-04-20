@@ -230,7 +230,7 @@
 或者部署到自己的服务器，具体方法如下：
 
 ```shell
-git clone https://github.com/zonemeen/netease-recent-profile.git
+git clone https://github.com/Manco9527/music.git
 cd netease-recent-profile
 npm install
 node ./app.js
